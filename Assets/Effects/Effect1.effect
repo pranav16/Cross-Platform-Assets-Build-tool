@@ -1,0 +1,13 @@
+return
+{
+
+	shaders={
+				vertexShader ="Shaders/vertex.shader",
+				fragmentShader="Shaders/fragment.shader"
+
+			},
+	RenderStates={
+					AlphaTransparency = false,DepthBuffer = true,Culling = true 
+			}
+
+}

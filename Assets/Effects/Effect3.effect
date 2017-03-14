@@ -1,0 +1,12 @@
+return
+{
+
+				shaders={
+							vertexShader ="Shaders/SpriteShader.shader",
+							fragmentShader="Shaders/fragment1.shader"
+
+						},
+			RenderStates={
+					AlphaTransparency = true,DepthBuffer = false,Culling = false 
+			}
+}

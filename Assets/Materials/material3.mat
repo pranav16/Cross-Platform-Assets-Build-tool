@@ -1,0 +1,9 @@
+return
+{
+
+       Parameters={
+					Color = {255.0,255.0,255.0,255.0},
+					Texture="Textures/eaeGamePad.png"
+				  },
+	    Effect="Effects/Effect3.effect",
+}

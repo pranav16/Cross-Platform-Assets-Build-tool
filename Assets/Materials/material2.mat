@@ -1,0 +1,10 @@
+return
+{
+
+       Parameters={
+					Color = {255.0,255.0,255.0,255.0},
+					Texture="Textures/floor.jpg"
+				  },
+	    Effect="Effects/Effect2.effect",
+
+}
